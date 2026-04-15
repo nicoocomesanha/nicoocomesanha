@@ -20,7 +20,7 @@ En mi primer año de ASIR, estoy trabajando con:
 Aquí puedes ver algunos de los laboratorios que voy realizando durante el curso:
 
 * **[Sistema de Gestión Escolar SQL](https://github.com/nicoocomesanha/colegio-montecastelo-sql):** Diseño completo de una DB escolar con integridad referencial y consultas complejas.
-* **[Configuración de Red Corporativa]:** (Próximamente) Implementación de VLANs y enrutamiento Inter-VLAN.
+* **[Configuración de Red Corporativa](https://github.com/nicoocomesanha/infraestructura-red-vlan-cisco):** Implementación de VLANs y enrutamiento Inter-VLAN.
 * **[Scripts de Administración]:** (Próximamente) Automatización de copias de seguridad y gestión de usuarios en Linux.
 
 ---
