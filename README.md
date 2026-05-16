@@ -21,6 +21,7 @@ Aquí puedes ver algunos de los laboratorios que voy realizando durante el curso
 
 * **[Sistema de Gestión Escolar SQL](https://github.com/nicoocomesanha/colegio-montecastelo-sql):** Diseño completo de una DB escolar con integridad referencial y consultas complejas.
 * **[Configuración de Red Corporativa](https://github.com/nicoocomesanha/infraestructura-red-vlan-cisco):** Implementación de VLANs y enrutamiento Inter-VLAN.
+* **[Página PokéDex](https://github.com/nicoocomesanha/Pokedex_Lenguaje_De_Marcas):** Aplicación web interactiva desarrollada para el módulo de Lenguajes de Marcas. Consume una base de datos local estructurada en **XML** validada por **DTD**, procesa y filtra los datos dinámicamente con **JavaScript** en el DOM, e incluye un minijuego clásico (*Arkanoid*) renderizado sobre HTML5 Canvas.
 * **[Scripts de Administración]:** (Próximamente) Automatización de copias de seguridad y gestión de usuarios en Linux.
 
 ---
