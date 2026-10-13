@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Nicolás Comesaña
 
-### 🚀 Estudiante de 1º de ASIR (Administración de Sistemas Informáticos en Red)
+### 🚀 Estudiante de 2º de ASIR (Administración de Sistemas Informáticos en Red)
 Me apasiona el mundo de la infraestructura tecnológica, la gestión de redes y la seguridad de sistemas. Actualmente me estoy formando en el **Colegio Montecastelo**, enfocándome en aprender cómo funcionan las entrañas de Internet y las empresas.
 
 ---
